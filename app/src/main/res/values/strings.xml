@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Remme</string>
+
+    <!-- LoginActivity -->
+
+    <string name="tv_title_app_name">ReMme</string>
+    <string name="btn_title_Offline">Offline</string>
+    <string name="btn_title_Online">Online</string>
+    <string name="tv_title_login">How do you prefer to login?</string>
+    <string name="dialog_title_offline">Mode Offline</string>
+    <string name="dialog_message_offline"> In this mode, all the information will be storaged in your phone, it will be able while you are offline.</string>
+    <string name="dialog_title_online">Mode Online</string>
+    <string name="dialog_message_online"> In this mode, all the information will be storaged out of your phone. To access it, you will need internet.</string>
+
+
+    <!-- GENERALS -->
+
+    <string name="online">Online </string>
+    <string name="offline">Offline </string>
+    <string name="mode">Mode</string>
+    <string name="to_do">To Do!</string>
+    <string name="calendar">Calendar</string>
+    <string name="favorites">Favorites</string>
+    <string name="chores">Chores</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
